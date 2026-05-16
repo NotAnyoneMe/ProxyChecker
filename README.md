@@ -4,10 +4,21 @@
 ![Python](https://img.shields.io/badge/python-3.6+-blue)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/7b52afc2-c81d-4434-ab23-c384d137db05.svg)](https://oosmetrics.com/repo/NotAnyoneMe/ProxyChecker)
+[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/33fe5944-fb54-4302-b11c-17d6ecfd27fc.svg)](https://oosmetrics.com/repo/NotAnyoneMe/ProxyChecker)
 
 A professional, feature-rich proxy checker application with a modern dark-themed GUI. Test HTTP, HTTPS, SOCKS4, and SOCKS5 proxies with real-time speed testing, country detection, and advanced verification methods.
 
 <img width="1280" alt="Proxy Checker Pro Interface" src="https://github.com/user-attachments/assets/dcb0edd9-9033-4683-929d-3186965f7cf9" />
+
+## 🏆 Achievements
+
+> Ranked by [oosmetrics](https://oosmetrics.com/repo/NotAnyoneMe/ProxyChecker) based on repository growth acceleration.
+
+| Badge | Achievement |
+|-------|-------------|
+| [![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/7b52afc2-c81d-4434-ab23-c384d137db05.svg)](https://oosmetrics.com/repo/NotAnyoneMe/ProxyChecker) | 🖥️ Top 10 in **Desktop** by acceleration — 2026-05-14 |
+| [![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/33fe5944-fb54-4302-b11c-17d6ecfd27fc.svg)](https://oosmetrics.com/repo/NotAnyoneMe/ProxyChecker) | 🌐 Top 6 in **Network** by acceleration — 2026-05-14 |
 
 ## Features
 
