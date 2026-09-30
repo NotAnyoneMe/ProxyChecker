@@ -310,28 +310,6 @@ For questions, suggestions, or support, feel free to reach out via Telegram or G
 
 If you find this tool useful and would like to support its continued development, cryptocurrency donations are greatly appreciated:
 
-### Cryptocurrency Addresses
-
-**TON (The Open Network)**
-```
-UQD-XUfoicqCzV-RCI6RkEzTO0iNi92ahMUSQ8l27s42LcVf
-```
-
-**LTC (Litecoin)**
-```
-ltc1qtl2tjdacrwk3r2qutl408quqwzeejv29jrvnnl
-```
-
-**BTC (Bitcoin)**
-```
-bc1q6y0qx6xhla2w9utlqusyzpskn0mdvfgzwchg50
-```
-
-**ETH (Ethereum)**
-```
-0xe3C42C6AF102fFDf6856DC2df3Ec7D009F4Eb31B
-```
-
 Your support helps maintain and improve this project. Thank you!
 
 ## Star This Repository
