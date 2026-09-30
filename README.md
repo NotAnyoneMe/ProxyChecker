@@ -306,12 +306,6 @@ The software is provided "as is", without warranty of any kind.
 
 For questions, suggestions, or support, feel free to reach out via Telegram or GitHub.
 
-## Support Development
-
-If you find this tool useful and would like to support its continued development, cryptocurrency donations are greatly appreciated:
-
-Your support helps maintain and improve this project. Thank you!
-
 ## Star This Repository
 
 If you find Proxy Checker Pro useful, please consider giving it a star on GitHub. It helps others discover the tool and motivates continued development.
